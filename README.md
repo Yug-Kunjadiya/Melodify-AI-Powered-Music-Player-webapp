@@ -7,6 +7,7 @@
 - 📁 View your library
 - 🧠 Mood Detection
 - 🎧 Responsive music controls
+- ☺️ Personalized Music Discovery: AI-driven recommendations based on mood analysis.
 
 ## UI Preview
 
